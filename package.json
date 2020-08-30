@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/TheBurnsby/integratedbody.coach/issues"
   },
-  "homepage": "https://github.com/TheBurnsby/integratedbody.coach#readme"
+  "homepage": "https://github.com/TheBurnsby/integratedbody.coach#readme",
+  "dependencies": {
+    "flexboxgrid": "^6.3.1"
+  }
 }
