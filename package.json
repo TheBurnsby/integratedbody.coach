@@ -1,0 +1,23 @@
+{
+  "name": "integratedbody.coach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "muleify -pw src dev -s dev",
+    "build": "muleify -p src docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBurnsby/integratedbody.coach.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBurnsby/integratedbody.coach/issues"
+  },
+  "homepage": "https://github.com/TheBurnsby/integratedbody.coach#readme"
+}
